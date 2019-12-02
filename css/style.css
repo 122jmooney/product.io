@@ -1,0 +1,19 @@
+.title {
+  font-size:100px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+.controller {
+  width: 900px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+hr {
+  position: relative;
+  top: 20px;
+  border: none;
+  height: 12px;
+  background: black;
+}
