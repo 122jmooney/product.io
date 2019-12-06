@@ -1,3 +1,6 @@
+* {
+  margin:0;
+}
 .title {
   font-size:100px;
   font-family: 'Montserrat', sans-serif;
@@ -44,7 +47,7 @@ hr {
   text-align: right;
 }
 .price {
-  font-size:100px;
+  font-size:120px;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
@@ -59,5 +62,20 @@ ul {
 .elitecontroller {
   display: block;
   width: 60%;
-
+}
+.top {
+  background-color: #000000;
+  width: 100%;
+}
+.lines {
+  width: 120px;
+}
+.logo {
+  width: 120px;
+}
+.links {
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  color: white
 }
